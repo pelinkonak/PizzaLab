@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pizzalab</string>
+    <string name="pizzaBaslik">Etli Peynirli</string>
+    <string name="peynirYazi">Peynir</string>
+    <string name="sucukYazi">Sucuk</string>
+    <string name="zeytinYazi">Zeytin</string>
+    <string name="biberYazi">Biber</string>
+    <string name="teslimatSure">25 dakika</string>
+    <string name="teslimatBaslik">Teslimat</string>
+    <string name="pizzaAciklama">Bu güzel lezzet bir tıklama uzağında!!</string>
+    <string name="fiyatYazi">152TL</string>
+    <string name="buttonYazi">Sepete ekle</string>
+</resources>
